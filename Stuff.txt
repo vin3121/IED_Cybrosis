@@ -1,0 +1,4 @@
+Backend - Node.js(NestJS) 
+Frontend - Javascript(React.js) 
+Database - PostgreSQL
+
