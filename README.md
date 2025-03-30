@@ -1,1 +1,1 @@
-# IED_Cybrosis
+# IED_Cybrosis Backend - Node.js(NestJS) Frontend - Javascript(React.js) Database - PostgreSQL
