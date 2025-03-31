@@ -1,7 +1,9 @@
-
 num = 69
-name = "Joe Steven"
+name = "Zark"
 print(name)
 
 for i in range(num):
     print("HA")
+    
+print(str(num))
+    
